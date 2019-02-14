@@ -21,7 +21,7 @@ print "          \n                 +-++-++-++-++-++-++-++-+ +-++-++-++-++-++-++
 print "     OpenFire Technologies ||OpenFire AdminFinder Version 1 (Beta)\n";
 print "                    opyright @ OpenFire Technologies\n";
 print "                           Coded By nu11-v0!d\n" ;
-print "                     website:www.openfire-security.net\n\n";
+print "                     website:www.ramerk.com
 print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n" ;
 print "\n";
 
